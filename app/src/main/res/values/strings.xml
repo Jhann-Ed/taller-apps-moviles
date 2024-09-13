@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taller Apps Moviles</string>
+    <string name="title">Conversor de Unidades de Temperatura</string>
+    <string name="description">El conversor de unidades se usa introduciendo el valor numérico de temperatura en el campo “Valor”, y seleccionando la unidad con ayuda de los botones °C, °F o °K.</string>
+    <string name="hint">Valor</string>
+
+</resources>
